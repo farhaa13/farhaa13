@@ -1,7 +1,6 @@
-[![MasterHead](https://in.images.search.yahoo.com/images/view;_ylt=AwrKFW.PqHlor8Q0kZ.9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2ExZTI1OTQzMzA0NDY4MmIwZTI0OWZjZjU4ZGZmMzg0BGdwb3MDNQRpdANiaW5n?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dbanner%2Bimage%2Bfor%2Bdevops%26type%3DE211IN1510G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D5&w=1920&h=1329&imgurl=static.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F036%2F290%2F346%2Flarge_2x%2Fdevops-banner-flat-illustration-template-for-website-banner-vector.jpg&rurl=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F36290346-devops-banner-flat-vector-illustration-template-for-website-banner&size=94KB&p=banner+image+for+devops&oid=a1e259433044682b0e249fcf58dff384&fr2=piv-web&fr=mcafee&tt=DevOps+banner+flat+vector+illustration+template+for+website+banner+...&b=0&ni=21&no=5&ts=&tab=organic&sigr=b4zVwrqGs3Ai&sigb=y7FB_hpTqOZh&sigi=.cpQVTTFywMG&sigt=JqXtvzPeIWu4&.crumb=Tc7.zFtXMGi&fr=mcafee&fr2=piv-web&type=E211IN1510G0)
-<h1 align="centre">Hi 👋, I'm Farha Patel</h1>
+<h1 align="center">Hi 👋, I'm Farha Patel</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
-img align="right" alt="Coding" width="400" src="https://tenor.com/view/computer-work-online-gif-14640055"
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhaa13&label=Profile%20views&color=0e75b6&style=flat" alt="farhaa13" /> </p>
 
